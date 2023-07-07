@@ -1,0 +1,41 @@
+
+.login{
+        width: 300px;
+        margin: auto;
+        padding: 40px;
+        background: #298875;
+        border-radius: 10px ;
+        
+
+}
+h1{
+    text-align: center;
+    color: #277582;
+    padding: 5px;
+}
+label{
+    color: #08ffd1;
+    font-size: 17px;
+}
+.Uname{
+    width: 300px;
+    height: 50px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+}
+button{
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 6px;
+    color:rgba(0, 0, 255, 0.812);
+}
+p{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+    color:rgba(0, 0, 255, 0.812);
+}
